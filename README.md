@@ -1,2 +1,2 @@
 # flexbox-made-easy
-Basic flexnox aplication
+Basic flexbox aplication
